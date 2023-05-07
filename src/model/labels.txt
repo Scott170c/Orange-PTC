@@ -1,0 +1,6 @@
+0 Navel Orange
+1 Blood Orange
+2 Tangerine Species
+3 Valencia Orange
+4 Tangelo Orange
+5 Not An Orange
